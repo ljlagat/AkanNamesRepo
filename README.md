@@ -22,7 +22,7 @@ The web application code can be clonned from: https://github.com/ljlagat/AkanNam
 
 ## Live Link
 
-https://pkoriris.github.io/Ghanian-day-names/
+https://ljlagat.github.io/AkanNamesRepo/
 
 ## BDD.
 
