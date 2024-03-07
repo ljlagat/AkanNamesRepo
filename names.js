@@ -7,7 +7,16 @@ const FEMALE_NAMES=[
     "Afua",
     "Ama"
 
-
+];
+const MALE_NAMES=[
+    "Kwasi",
+    "Kwadwo",
+    "Kwabena",
+    "Kwaku",
+    "Yaw",
+    "Kofi",
+    "Kwame"
+];
 const DAYS_OF_THE_WEEK=[
     "Sunday",
     "Monday",
