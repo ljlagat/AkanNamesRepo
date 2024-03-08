@@ -99,3 +99,9 @@ function getYear(){
     return year;
     }
 }
+
+// get gender
+function getGender(){    
+    let gender = checkRadiobutton();
+     return gender;
+}
