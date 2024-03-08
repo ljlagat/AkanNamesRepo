@@ -41,9 +41,9 @@ https://ljlagat.github.io/AkanNamesRepo/
 
 ## Contact information
 
-* Phone: 
-* Email: 
+* Phone: 254713129874
+* Email: lucy.maiyo2@gmail.com
 
 ## License and Copyright information
-__(c) **  @2024__
-# GhanianAkanNames
+__(c) *lagat lucia*  @2024__
+
