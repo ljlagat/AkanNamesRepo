@@ -87,3 +87,15 @@ function getMonth(){
     }
 }
 
+//get and validate the year
+function getYear(){
+
+    let year = document.getElementById("year").value;
+    if(year.length != 4){
+        document.getElementById("year").value="";
+        alert("year must be 4 digits i.e 1989");
+    }else{
+
+    return year;
+    }
+}
