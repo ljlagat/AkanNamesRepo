@@ -18,10 +18,10 @@ service has seen her bag major awards including Safaricom CEO Awards graced by c
 
 ## Setup instructions - includes any scripts that need to be run if necessary
 
-The web application code can be clonned from: 
+The web application code can be clonned from: https://github.com/ljlagat/AkanNamesRepo.git
 
 ## Live Link
-
+https://ljlagat.github.io/AkanNamesRepo/
 
 
 ## BDD
