@@ -24,10 +24,10 @@ The web application code can be clonned from: https://github.com/ljlagat/AkanNam
 
 https://ljlagat.github.io/AkanNamesRepo/
 
-## BDD.
+## BDD
 
 * See a  small description of what the application does on the landing page.
-* Key in birthday year
+* Kein birthday year
 * Key in birthday month
 * Key in birthday date
 * Select gender
