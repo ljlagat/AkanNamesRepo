@@ -18,11 +18,11 @@ service has seen her bag major awards including Safaricom CEO Awards graced by c
 
 ## Setup instructions - includes any scripts that need to be run if necessary
 
-The web application code can be clonned from: https://github.com/ljlagat/AkanNamesRepo.git
+The web application code can be clonned from: 
 
 ## Live Link
 
-https://ljlagat.github.io/AkanNamesRepo/
+
 
 ## BDD
 
@@ -41,8 +41,9 @@ https://ljlagat.github.io/AkanNamesRepo/
 
 ## Contact information
 
-* Phone: 254713129874
-* Email: lucy.maiyo2@gmail.com
+* Phone: 
+* Email: 
 
 ## License and Copyright information
-__(c) *Lagat Lucia*  @2024__
+__(c) **  @2024__
+# GhanianAkanNames
