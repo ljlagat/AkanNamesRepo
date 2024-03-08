@@ -59,10 +59,10 @@ function main(){ // compute for the Akan name and return it
     let gender = getGender();
     let dayOfTheweek = computeDayOfTheweek();
 
-    if(gender.toLocaleLowerCase().startsWith('m')){ // check if the gender is male
-        akanName=MALE_NAMES[dayOfTheweek];
+    if(gender.toLocaleLowerCase().startsWith('f')){ // check if the gender is female
+        akanName=FEMALE_NAMES[dayOfTheweek];
     } else{
-        akanName= FEMALE_NAMES[dayOfTheweek];
+        akanName= MALE_NAMES[dayOfTheweek];
     }
 
     // check if valid inputs were provided otherwise the computation will result to undefined
